@@ -2,7 +2,7 @@
 title: 챗봇은 단비로 만드세요.
 tags: [tutorial, basic]
 keywords: Tutorial
-summary: 챗봇이 무엇인지, 챗봇의 활용, 챗봇 적용방법에 대해 안내드립니다.
+summary: 챗봇이 무엇인지, 챗봇의 활용, 챗봇 적용방법에 대해 안내드립니다. 잉 단비팀 깃헙 문서 외부 사람 누구나 편집할 수 있도록 되어 있어요. 바꿔주세요...
 sidebar: blog_sidebar
 permalink: index.html
 folder: tutorial
